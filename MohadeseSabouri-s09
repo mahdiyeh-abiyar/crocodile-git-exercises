@@ -1,0 +1,47 @@
+<html dir="rtl">
+    <head>
+        <title> part school</title>
+    </head>
+    
+    <body>
+        <h1>pomodero پومودرو</h1>
+          <p>
+          Lorem ipsum dolor sit amet, <u>consectetur</u> adipisicing elit. Mollitia veniam praesentium soluta explicabo molestias debitis aspernatur autem, iusto labore. Adipisci voluptate architecto voluptatem nisi beatae porro repellendus consectetur? Quae quod inventore a maxime, earum quasi natus dignissimos fuga! Placeat adipisci, cumque quis voluptatibus architecto nulla dolor earum voluptatum eveniet? Consequatur!
+          </p>
+          <p>
+            ویزگی  های اصلی این تکنیک
+          </p>
+          <ul>
+            <li> Lorem ipsum dolor sit.</li>
+            <li> Lorem ipsum dolor sit.</li>
+            <li> Loerm ipsum dolor sit.</li>
+            <li> Lorem ipsum dolor sit.</li>
+            <li> Lorem ipsum dolor sit.</li>
+            <li> Lorem ipsum dolor sit.</li>
+ 
+          </ul>
+
+          <table  border="1">
+           <tr>
+            <th>Firstname</th>
+            <th>Lastname</th> 
+            <th>Age</th>
+            </tr>
+          <tr>
+            <td>Jill</td>
+            <td>Smith</td> 
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Eve</td>
+            <td>Jackson</td> 
+            <td>94</td>
+          </tr>
+          </table>
+          <img src="33.jpg" alt="زبان های برنامه نویسی"
+           height="150px;" width="150px;">
+           <span>click this text to open</span>
+          <a href="https://www.digikala.com/categories/"> digikala.com</a>
+
+    </body>
+</html>
